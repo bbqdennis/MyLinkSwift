@@ -1,0 +1,1167 @@
+/*
+  Localizable.strings
+  csapp
+
+  Created by Dennis CHENG Kin Hang on 9/10/2019.
+  Copyright © 2019 CMHK. All rights reserved.
+*/
+
+"myaccount_my_account" = "我的帐户";
+"myaccount_mobile_number" = "流动电话号码";
+"myaccount_macau_number" = "澳门号码";
+"myaccount_mainland_number" = "内地号码";
+"myaccount_prepaid_card_number" = "储值卡号码";
+"myaccount_client_code" = "客户编码";
+"myaccount_service_plan" = "我的服务计划";
+"myaccount_roaming_service" = "我的漫游服务";
+"myaccount_value_added_service" = "我的增值服务";
+"myaccount_boardband_service" = "我的宽带服务";
+"myaccount_message_receive_setting" = "讯息接收设定";
+"myaccount_my_bill_service_setting" = "账单服务设定";
+"myaccount_enterprise_users" = "企业用户";
+"myaccount_account_remains" = "账户余额";
+"myaccount_30day_value_added_record" = "近30天增值记录";
+"myaccount_prepaid_card_type" = "储值卡类型";
+"myaccount_first_launch_date" = "首次启动日期";
+"myaccount_prepaid_card_expiration_date" = "储值卡到期日";
+"myaccount_value_added" = "增值";
+
+"phonesetting_phone_number_setting" = "电话号码设定";
+"phonesetting_edit_mobile_number" = "更改流动电话号码";
+"phonesetting_enable_macau_phone_number" = "开通澳门电话号码";
+"phonesetting_enable_mainland_phone_number" = "开通内地电话号码";
+
+"personalinfo_personal_info" = "个人资料";
+"personalinfo_profile_picture" = "头像";
+"personalinfo_nickname" = "昵称";
+"personalinfo_gender" = "性别";
+"personalinfo_birthday" = "出生年月";
+"personalinfo_contact_number" = "联系电话";
+"personalinfo_contact_email" = "联系电邮";
+"personalinfo_contact_address" = "联系地址";
+"personalinfo_not_set" = "未设置";
+"personalinfo_real_name" = "真实姓名";
+"personalinfo_enterprise_users" = "企业用户";
+
+"contactaddress_contact_address" = "联系地址";
+"contactaddress_regional" = "区域";
+
+"messagesetting_message_receive_setting" = "讯息接收设定";
+"messagesetting_message_language_setting" = "接收文字、语音消息及信件等 数据的通讯语言";
+"messagesetting_chinese" = "中文";
+"messagesetting_english" = "英文";
+"messagesetting_accept_promotion_message" = "接受推广信息";
+"messagesetting_promotion_message_type_setting" = "设定可接收的讯息类型";
+"messagesetting_email_advertisement" = "邮寄广告";
+"messagesetting_mms_sms_promotion_message" = "宣传短讯/多媒体讯息";
+"messagesetting_phone_promotion" = "电话推广";
+"messagesetting_email_promotion" = "电邮推广";
+"messagesetting_cancel" = "取消";
+"messagesetting_ok" = "确定";
+"messagesetting_detail_address" = "详细地址";
+"messagesetting_enter_address" = "请输入你的详细地址";
+"messagesetting_message_receive_closed" = "关闭后，你将不再接收宣传及推广讯息，但不包括中国移动香港的其他提示讯息。 例如：缴费及账单提示、以及漫游欢迎短讯等";
+
+"billsetting_bill_service_setting" = "账单服务设定";
+"billsetting_send_ebill_to_email" = "发送电子账单到电邮";
+"billsetting_received_email" = "接收的电邮地址";
+"billsetting_bill_voice_setting" = "账单显示语言";
+"billsetting_chinese" = "中文";
+"billsetting_english" = "英文";
+"billsetting_language_setting_warning" = "此设定为电邮接收的电子账单所使用的语言，设定将在下一期账单开始⽣效。";
+"billsetting_send_ebill_to_email_closed" = "开启后，每⽉将自动发送电子账单到阁下的电邮地址，如有储 存账单的需要，建议开启";
+"billsetting_email_address" = "电邮地址";
+"billsetting_enter_email_address" = "请输入你的电邮地址";
+
+"mybill_my_bill" = "我的账单";
+"mybill_bill_will_be_paid_by_main_account" = "账单将由主卡缴付";
+"mybill_intercept_day" = "截数日";
+"mybill_pay_now" = "立即缴费";
+"mybill_last_payment_day" = "缴款到期日";
+"mybill_total_bill_value" = "账单总额";
+"mybill_current_bill_detail" = "本期账单明细";
+"mybill_check_add_other_number_bill" = "为名下其他号码快捷缴费";
+"mybill_number_of_non_paid_bill" = "个未缴账单";
+"mybill_bill_checking" = "账单查询";
+"mybill_bill_detail_and_history" = "账单明细/历史账单";
+"mybill_payment_record" = "缴费记录";
+"mybill_payment_record_and_receipt" = "缴费记录/收据";
+"mybill_bill_service_setting" = "账单服务设定";
+"mybill_email_address_and_bill_language" = "电邮地址/账单语言";
+"mybill_payment_number" = "缴费号码";
+"mybill_copy" = "复制";
+"mybill_copied" = "已复制到剪贴板";
+"mybill_current_payment_cleared" = "本期已缴清";
+"mybill_prepaid" = "预缴费";
+"mybill_corporate_payment" = "企业缴付";
+"mybill_corporate_payment_rule" = "企业缴付规则";
+"mybill_current_corporate_payment_cleared" = "本期已由企业缴清";
+
+"othernumberbill_other_number_bill" = "名下其他号码账单";
+"othernumberbill_add_other_number_bill" = "添加名下其他号码";
+"othernumberbill_add_number_upper" = "于上⽅添加号码后";
+"othernumberbill_add_number_below" = "于下⽅添加号码";
+"othernumberbill_check_other_number_status" = "可透过此账⼾查看名下其他流动电话之账⼾结余、缴费号码及于网上一并缴费";
+"othernumberbill_remind_you" = "提提你";
+"othernumberbill_use_same_hkid_tips" = "可查看结余的其他账⼾必须以阁下的香港⾝份证号码登记";
+"othernumberbill_max_ten_accounts_tips" = "最多只可登记10个账⼾";
+"othernumberbill_renew_phone_number_tips" = "更改流动电话后会自动显⽰最新的流动电话号码，毋需重新登记";
+"othernumberbill_renew_user_account_tips" = "更改注册用⼾后将不会再显示有关流动电话号码的数据";
+
+"billcheck_bill_check" = "账单查询";
+"billcheck_last_six_month_bill" = "近六个月账单";
+"billcheck_only_support_six_month_bill" = "暂只⽀支持查询近六个⽉月的账单，如有需要请及时保存";
+"billcheck_month_bill" = "月账单";
+"billcheck_saved_bill" = "已保存账单";
+"billcheck_save" = "保存";
+"billcheck_share" = "分享";
+"billcheck_saved_bill_select_all" = "全选";
+"billcheck_saved_bill_delete" = "删除";
+"billcheck_saved_bill_edit" = "编辑";
+"billcheck_saved_bill_cancel" = "取消";
+"billcheck_saved" = "已保存";
+"billcheck_bill" = "账单";
+
+"paymentrecord_payment_record" = "缴费记录";
+"paymentrecord_last_six_month_payment_record" = "近六个月的缴费记录";
+"paymentrecord_only_support_six_month_payment_record" = "暂只⽀支持查询近六个⽉的缴费记录，如有需要请及时保存";
+"paymentrecord_receipt_number" = "收据号码/参考编号:";
+"paymentrecord_remind_you" = "提提你";
+"paymentrecord_payment_record_tips" = "以上显示客户最近六个⽉的缴费记录，包括缴付账单、缴付按金、购买手机等，但不包括账项调整、账项 豁免、按金退回等记录";
+"paymentrecord_payment_record_refresh_time_tips" = "因更新需时，部分缴费记录未能实时显示";
+"paymentrecord_payment_record_cancel_tips" = "已更正或取消的缴费记录均不会显⽰，详情可致电中国移动香港24⼩时客⼾服务热线29458888查询";
+"paymentrecord_saved_payment_record" = "已保存缴费记录";
+"paymentrecord_save" = "保存";
+"paymentrecord_share" = "分享";
+
+"valueaddedrecord_value_added_record" = "增值记录";
+"valueaddedrecord_30day_value_added_record" = "以下仅支持显示近30天的增值记录";
+"valueaddedrecord_online_value_added" = "网上增值";
+"valueaddedrecord_take_in_value" = "实得储值额";
+
+"myserviceplan_my_service_plan" = "我的服务计划";
+"myserviceplan_45g_full_speed_local_service_plan" = "4.5G全速本地服务计划";
+"myserviceplan_contract_period" = "合约期：";
+"myserviceplan_monthly_fee" = "月 费：";
+"myserviceplan_data" = "数据";
+"myserviceplan_local_data_full_speed" = "本地数据 · 全速";
+"myserviceplan_local_data_limit_speed" = "本地数据 · 限速";
+"myserviceplan_extra_buy_local_data_full_speed" = "额外购买本地数据 · 全速";
+"myserviceplan_remains_check" = "余量查询";
+"myserviceplan_unlimited_usage" = "无限任用";
+"myserviceplan_voice" = "话音";
+"myserviceplan_planned_local_call" = "计划内本地通话";
+"myserviceplan_local_video_call_in_netowork" = "本地视像通话 · 网内";
+"myserviceplan_sms" = "短讯";
+"myserviceplan_local_sms_in_network" = "本地短讯 · 网内";
+"myserviceplan_local_sms_out_network" = "本地短讯· 网外";
+"myserviceplan_local_mms" = "本地多媒体讯息";
+"myserviceplan_plan_bonus" = "计划附赠";
+"myserviceplan_mainland_china_macau_data" = "中国内地及澳门数据";
+"myserviceplan_terms_of_service_plan" = "服务计划条款";
+"myserviceplan_automatic_renewal_terms" = "自动续约条款";
+"myserviceplan_upgrade_service_plan" = "升级服务计划";
+
+"myvalueaddedservice_my_value_added_service" = "我的增值服务";
+"myvalueaddedservice_voice" = "话音";
+"myvalueaddedservice_i_love_photo" = "iLovePhoto开心晒";
+"myvalueaddedservice_basic_message_box" = "基本留言讯箱";
+"myvalueaddedservice_valid_date" = "有效期：";
+"myvalueaddedservice_applied" = "已申请";
+
+"myroamingservice_my_roaming_service" = "我的漫游服务";
+"myroamingservice_data_roaming" = "数据漫游";
+"myroamingservice_voice_roaming_idd" = "语音漫游及IDD";
+"myroamingservice_applied" = "已申请";
+"myroamingservice_voice" = "话音";
+"myroamingservice_i_love_photo" = "iLovePhoto开心晒";
+"myroamingservice_basic_message_box" = "基本留言讯箱";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

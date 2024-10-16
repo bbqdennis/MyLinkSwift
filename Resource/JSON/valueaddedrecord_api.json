@@ -1,0 +1,84 @@
+{
+    "result": {
+        "returnCode": 0,
+        "returnDesc": "Success"
+    },
+    "data": {
+        "last_value_added_id": 10010,
+        "item_list": [{
+                "value_added_id": 10015,
+                "value_added_type_title": "網上增值",
+                "value_added_total_amount": 124.56,
+                "value_added_info_list": [{
+                        "value_added_info_title": "優惠活動",
+                        "value_added_info_value": "充800送270"
+                    },
+                    {
+                        "value_added_info_title": "優惠券",
+                        "value_added_info_value": "-$20.00"
+                    },
+                    {
+                        "value_added_info_title": "積分抵扣",
+                        "value_added_info_value": "-$10.00"
+                    },
+                    {
+                        "value_added_info_title": "實付",
+                        "value_added_info_value": "$770.00"
+                    },
+                    {
+                        "value_added_info_title": "增值渠道",
+                        "value_added_info_value": "CMHK網站"
+                    },
+                    {
+                        "value_added_info_title": "支付方式",
+                        "value_added_info_value": "支付寶香港"
+                    },
+                    {
+                        "value_added_info_title": "增值時間",
+                        "value_added_info_value": "2019/07/08 21:33"
+                    }
+                ]
+            },
+            {
+                "value_added_id": 10014,
+                "value_added_type_title": "網上增值",
+                "value_added_total_amount": 420,
+                "value_added_info_list": [{
+                        "value_added_info_title": "優惠活動",
+                        "value_added_info_value": "充800送270"
+                    },
+                    {
+                        "value_added_info_title": "優惠券",
+                        "value_added_info_value": "$300.00"
+                    },
+                    {
+                        "value_added_info_title": "增值渠道",
+                        "value_added_info_value": "CMHK網站"
+                    },
+                    {
+                        "value_added_info_title": "支付方式",
+                        "value_added_info_value": "支付寶香港"
+                    },
+                    {
+                        "value_added_info_title": "增值時間",
+                        "value_added_info_value": "2019/07/08 21:33"
+                    }
+                ]
+            },
+            {
+                "value_added_id": 10013,
+                "value_added_type_title": "增值券增值",
+                "value_added_total_amount": 100,
+                "value_added_info_list": [{
+                        "value_added_info_title": "增值渠道",
+                        "value_added_info_value": "CMHK網站"
+                    },
+                    {
+                        "value_added_info_title": "增值時間",
+                        "value_added_info_value": "2019/07/08 21:33"
+                    }
+                ]
+            }
+        ]
+    }
+}
